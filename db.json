@@ -1,0 +1,338 @@
+{
+   "services": [
+      {
+         "id": "ser01",
+         "name": "Veb sayt yasash",
+         "img": "/img/svg/ser_web.svg"
+      },
+      {
+         "id": "ser02",
+         "name": "Mobil dasturlar yasash",
+         "img": "/img/svg/ser_mob.svg"
+      },
+      {
+         "id": "ser03",
+         "name": "Telegram botlar yasash",
+         "img": "/img/svg/ser_bot.svg"
+      },
+      {
+         "id": "ser04",
+         "name": "SEO optimizatsiya",
+         "img": "/img/svg/ser_seo.svg"
+      },
+      {
+         "id": "ser05",
+         "name": "CRM, ERP, HRM POS tizimlari",
+         "img": "/img/svg/ser_crm.svg"
+      },
+      {
+         "id": "ser06",
+         "name": "Dizayn xizmatlari",
+         "img": "/img/svg/ser_des.svg"
+      },
+      {
+         "id": "ser07",
+         "name": "Digital marketing",
+         "img": "/img/svg/ser_dig.svg"
+      },
+      {
+         "id": "ser08",
+         "name": "SMM, Targeting xizmatlari",
+         "img": "/img/svg/ser_smm.svg"
+      }
+   ],
+   "portfolios": [
+      {
+         "id": "port01",
+         "img": "https://picsum.photos/id/60/300/400",
+         "name": "“iTeach academy” dizaynini qayta ishlash",
+         "cat": "des",
+         "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, ",
+         "images": [
+            "https://picsum.photos/id/100/1000/800",
+            "https://picsum.photos/id/101/1000/800",
+            "https://picsum.photos/id/102/1000/800"
+         ],
+         "specialists": [
+            {
+               "id": "t01",
+               "img": "https://picsum.photos/230/230?random=1",
+               "name": "Mardonbek Egamberdiyev",
+               "position": "UX/UI Dizayner"
+            },
+            {
+               "id": "t02",
+               "img": "https://picsum.photos/230/230?random=2",
+               "name": "Dostonbek Otajonov",
+               "position": "Frontend Developer"
+            }
+         ]
+      },
+      {
+         "id": "port02",
+         "img": "https://picsum.photos/id/61/300/400",
+         "name": "“iSoftware” dizaynini qayta ishlash",
+         "cat": "web",
+         "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, ",
+         "images": [
+            "https://picsum.photos/id/100/1000/800",
+            "https://picsum.photos/id/101/1000/800",
+            "https://picsum.photos/id/102/1000/800"
+         ],
+         "specialists": [
+            {
+               "id": "t01",
+               "img": "https://picsum.photos/230/230?random=3",
+               "name": "Eshonov Fakhriyor",
+               "position": "UX/UI Dizayner"
+            },
+            {
+               "id": "t02",
+               "img": "https://picsum.photos/230/230?random=4",
+               "name": "Sherali Bobakalonov",
+               "position": "Frontend Developer"
+            },
+            {
+               "id": "t03",
+               "img": "https://picsum.photos/230/230?random=5",
+               "name": "Dostonbek Otajonov",
+               "position": "Backend Developer"
+            }
+         ]
+      },
+      {
+         "id": "port03",
+         "img": "https://picsum.photos/id/65/300/400",
+         "name": "“XDDUK” to'liq sayti",
+         "cat": "des",
+         "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, ",
+         "images": [
+            "https://picsum.photos/id/107/1000/800",
+            "https://picsum.photos/id/108/1000/800",
+            "https://picsum.photos/id/109/1000/800"
+         ],
+         "specialists": [
+            {
+               "id": "t01",
+               "img": "https://picsum.photos/230/230?random=5",
+               "name": "Abdurashid Mominov",
+               "position": "Backend Developer"
+            },
+            {
+               "id": "t02",
+               "img": "https://picsum.photos/230/230?random=6",
+               "name": "Sherali Bobakalonov",
+               "position": "Frontend Developer"
+            }
+         ]
+      },
+      {
+         "id": "port04",
+         "img": "https://picsum.photos/id/66/300/400",
+         "name": "“Andijon Davlat Aktivlari” to'liq sayti",
+         "cat": "web",
+         "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, ",
+         "images": [
+            "https://picsum.photos/id/110/1000/800",
+            "https://picsum.photos/id/111/1000/800",
+            "https://picsum.photos/id/112/1000/800"
+         ],
+         "specialists": [
+            {
+               "id": "t01",
+               "img": "https://picsum.photos/230/230?random=8",
+               "name": "Ulugbek Muhammadjonov",
+               "position": "UX/UI Dizayner"
+            },
+            {
+               "id": "t02",
+               "img": "https://picsum.photos/230/230?random=9",
+               "name": "Sherali Bobakalonov",
+               "position": "Frontend Developer"
+            }
+         ]
+      },
+      {
+         "id": "port04",
+         "img": "https://picsum.photos/id/67/300/400",
+         "name": "“Led Masters” to'liq sayti",
+         "cat": "des",
+         "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, ",
+         "images": [
+            "https://picsum.photos/id/113/1000/800",
+            "https://picsum.photos/id/114/1000/800",
+            "https://picsum.photos/id/115/1000/800"
+         ],
+         "specialists": [
+            {
+               "id": "t01",
+               "img": "https://picsum.photos/230/230?random=14",
+               "name": "Ulugbek Muhammadjonov",
+               "position": "Backend Developer"
+            },
+            {
+               "id": "t02",
+               "img": "https://picsum.photos/230/230?random=15",
+               "name": "Sherali Bobakalonov",
+               "position": "Frontend Developer"
+            },
+            {
+               "id": "t01",
+               "img": "https://picsum.photos/230/230?random=16",
+               "name": "Shukurillo Tojinazarov",
+               "position": "UX/UI Dizayner"
+            }
+         ]
+      }
+   ],
+   "team": [
+      {
+         "id": "t01",
+         "img": "https://picsum.photos/230/230?random=1",
+         "name": "Eshonov Fakhriyor",
+         "position": "UX/UI Dizayner"
+      },
+      {
+         "id": "t02",
+         "img": "https://picsum.photos/230/230?random=2",
+         "name": "Sherali Bobakalonov",
+         "position": "Frontend Developer"
+      },
+      {
+         "id": "t03",
+         "img": "https://picsum.photos/230/230?random=3",
+         "name": "Eshonov Fakhriyor",
+         "position": "UX/UI Dizayner"
+      },
+      {
+         "id": "t04",
+         "img": "https://picsum.photos/230/230?random=4",
+         "name": "Sherali Bobakalonov",
+         "position": "Frontend Developer"
+      },
+      {
+         "id": "t05",
+         "img": "https://picsum.photos/230/230?random=5",
+         "name": "Eshonov Fakhriyor",
+         "position": "UX/UI Dizayner"
+      },
+      {
+         "id": "t06",
+         "img": "https://picsum.photos/230/230?random=6",
+         "name": "Sherali Bobakalonov",
+         "position": "Frontend Developer"
+      },
+      {
+         "id": "t07",
+         "img": "https://picsum.photos/230/230?random=7",
+         "name": "Eshonov Fakhriyor",
+         "position": "UX/UI Dizayner"
+      },
+      {
+         "id": "t08",
+         "img": "https://picsum.photos/230/230?random=8",
+         "name": "Sherali Bobakalonov",
+         "position": "Frontend Developer"
+      }
+   ],
+   "videoFeedback": [
+      {
+         "id": "vf01",
+         "video": "/video/v01.mp4",
+         "name": "Egamberdiev Mardonbek",
+         "assignment": "Sayt yasash"
+      },
+      {
+         "id": "vf02",
+         "video": "/video/v01.mp4",
+         "name": "Bobakalonov Sherali",
+         "assignment": "Sayt yasash"
+      },
+      {
+         "id": "vf03",
+         "video": "/video/v01.mp4",
+         "name": "Egamberdiev Mardonbek",
+         "assignment": "Sayt yasash"
+      }
+   ],
+   "portfoliosFilterItems": [
+      {
+         "id": "fi01",
+         "val": "all",
+         "name": "Barchasi"
+      },
+      {
+         "id": "fi02",
+         "val": "web",
+         "name": "Web"
+      },
+      {
+         "id": "fi03",
+         "val": "des",
+         "name": "Dizayn"
+      }
+   ],
+   "commentFeedback": [
+      {
+         "id": "cf01",
+         "name": "Egamberdiev Mardonbek ",
+         "img": "https://picsum.photos/120/120?random=9",
+         "assignment": "Sayt yasash",
+         "title": "O’z ishining professionallari",
+         "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged .s, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+         "id": "cf02",
+         "name": "Sherali Bobakalonov",
+         "img": "https://picsum.photos/120/120?random=10",
+         "assignment": "Sayt yasash",
+         "title": "O’z ishining professionallari",
+         "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged .s, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+      {
+         "id": "cf03",
+         "name": "Egamberdiev Mardonbek ",
+         "img": "https://picsum.photos/120/120?random=11",
+         "assignment": "Sayt yasash",
+         "title": "O’z ishining professionallari",
+         "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged .s, but also the leap into electronic typesetting, remaining essentially unchanged."
+      }
+   ],
+   "process":[
+      {
+         "id": "ser01",
+         "name": "Biznes tahlil qilish",
+         "img": "/img/svg/ser_web.svg"
+      },
+      {
+         "id": "ser02",
+         "name": "Mos yechim tanlash",
+         "img": "/img/svg/ser_mob.svg"
+      },
+      {
+         "id": "ser03",
+         "name": "Shartnoma tuzish",
+         "img": "/img/svg/ser_bot.svg"
+      },
+      {
+         "id": "ser04",
+         "name": "SEO optimizatsiya",
+         "img": "/img/svg/ser_seo.svg"
+      },
+      {
+         "id": "ser05",
+         "name": "CRM, ERP, HRM POS tizimlari",
+         "img": "/img/svg/ser_crm.svg"
+      },
+      {
+         "id": "ser06",
+         "name": "Dizayn xizmatlari",
+         "img": "/img/svg/ser_des.svg"
+      },
+      {
+         "id": "ser07",
+         "name": "Digital marketing",
+         "img": "/img/svg/ser_dig.svg"
+      }
+   ]
+}
